@@ -74,7 +74,7 @@ const filipe = {
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -87,7 +87,7 @@ const filipe = {
 </div>
 
 ---
-
+-->
 ## 🚀 Featured Projects
 
 <div align="center">
