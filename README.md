@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipedosreissantos)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://filipedosreissantos.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/philiparchibaldmixson)
 [![Língua Academy](https://img.shields.io/badge/Língua_Academy-D4AF37?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.linguaacademy.com.br)
 
 </div>
